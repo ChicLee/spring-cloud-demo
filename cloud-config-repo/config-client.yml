@@ -1,0 +1,7 @@
+#随意设置的一个参数
+myblog:
+  name: 千万之路刚开始-author-lxp
+  url: http://www.chic.com
+  location: Hangzhou
+config-client:
+  name: test
